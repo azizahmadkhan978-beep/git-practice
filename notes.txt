@@ -1,2 +1,3 @@
 I am learning Git.
 This is my first repository.
+I have successfully pushed my first repository to GitHub.
